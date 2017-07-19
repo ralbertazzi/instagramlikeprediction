@@ -1,0 +1,5 @@
+* instagram1.py - First approach: metadata only
+* instagram2.py - Second approach: metadata and images (CNN)
+* instagram3.py - Third approach: Google Vision API labels and autoencoder; Fourth approach with custom CNN
+* instagram4.py - Fourth approach with VGG-19 features
+* instagram5.py - Fifth approach: user cluster performance
